@@ -10,3 +10,4 @@ for number in range(2, limit + 1):
 
     if is_prime:
         print(number)
+        huy
