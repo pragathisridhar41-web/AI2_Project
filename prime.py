@@ -9,4 +9,4 @@ for number in range(2, limit + 1):
             break
 
     if is_prime:
-        print(number)
+        print(number) 
